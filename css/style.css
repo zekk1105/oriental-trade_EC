@@ -166,7 +166,7 @@ p {
         min-width: 120px;
         width: auto;
         max-width: 180px;
-    
+
 }}
 
 
@@ -266,7 +266,7 @@ header {
 @media screen and (max-width: 960px){
     header {
         padding: 8px 32px;
-        
+
 }}
 
 
@@ -732,7 +732,7 @@ header {
         .maker_type ul li a {
             padding: 16px;
         }}
-    
+
 
 .maker_type ul li img {
     width: 100%;
@@ -749,7 +749,7 @@ header {
         .maker_type ul li img {
             margin-bottom: 16px;
         }}
-    
+
 
 /*
 ========================================
@@ -800,6 +800,7 @@ header {
 .car_sells {
     width: auto;
     display: flex;
+    flex-wrap: wrap;
     flex-direction: row;
     gap: 40px;
 }
