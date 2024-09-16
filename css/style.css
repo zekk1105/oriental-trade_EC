@@ -809,6 +809,7 @@ header {
     .car_sells {
         /* gap: 32px; */
         width: auto;
+        flex-wrap: nowrap;
 }}
 
 
@@ -819,6 +820,11 @@ header {
     display: flex;
     background-color: #FFF;
 }
+
+@media screen and (max-width: 1280px){
+    .car_sells_list {
+        width: calc(33% - 40px);
+}}
 
 @media screen and (max-width: 960px){
     .car_sells_list {
