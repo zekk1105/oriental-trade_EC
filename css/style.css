@@ -649,6 +649,10 @@ header {
     border: none;
     padding: 1%;
 }
+.search_keyword_inpu:focus {
+    border: none;
+    padding: 1%;
+}
 
     @media screen and (max-width: 540px){
         .search_keyword_input {
