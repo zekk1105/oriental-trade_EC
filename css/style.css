@@ -650,7 +650,7 @@ header {
     padding-left: 20px;
 }
 .search_keyword_input:focus {
-    border: none;
+    border: none !important;
     padding-left: 20px;
 }
 
