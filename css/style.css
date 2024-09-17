@@ -802,6 +802,7 @@ header {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
+    justify-content: space-between;
     /* gap: 40px; */
 }
 
@@ -815,7 +816,6 @@ header {
 
 .car_sells_list {
     width: calc(25% - 40px);
-    margin: 20px;
     height: auto;
     display: flex;
     background-color: #FFF;
