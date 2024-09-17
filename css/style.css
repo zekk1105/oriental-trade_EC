@@ -1703,3 +1703,7 @@ footer span {
     align-items: center;
     color: #EFEFEF;
 }
+
+#baseMenu {
+    bottom: calc(var(--information-banner-height, 0px) + 30px);
+}
