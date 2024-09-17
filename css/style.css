@@ -651,7 +651,7 @@ header {
 }
 .search_keyword_input:focus {
     border: none;
-    padding: 1%;
+    padding-left: 20px;
 }
 
     @media screen and (max-width: 540px){
