@@ -1705,5 +1705,5 @@ footer span {
 }
 
 #baseMenu {
-    bottom: calc(var(--information-banner-height, 0px) + 30px);
+    top: 90vh;
 }
