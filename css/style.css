@@ -1686,3 +1686,7 @@ footer span {
 .d-none{
     display: none;
 }
+
+.breadcrumb li:not(:last-child) {
+    display: none;
+}
