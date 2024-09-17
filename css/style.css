@@ -646,6 +646,8 @@ header {
     height: 48px;
     margin-left: 24px;
     background: #EFEFEF;
+    border: none;
+    padding: 1%;
 }
 
     @media screen and (max-width: 540px){
