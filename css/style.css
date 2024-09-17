@@ -809,7 +809,7 @@ header {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: flex-start;
     gap: 40px;
 }
 
@@ -1687,6 +1687,6 @@ footer span {
     display: none;
 }
 
-.breadcrumb li:not(:last-child) {
+.breadcrumb__child:not(:last-child) {
     display: none;
 }
