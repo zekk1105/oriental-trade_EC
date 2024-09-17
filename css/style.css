@@ -647,9 +647,9 @@ header {
     margin-left: 24px;
     background: #EFEFEF;
     border: none;
-    padding: 1%;
+    padding-left: 20px;
 }
-.search_keyword_inpu:focus {
+.search_keyword_input:focus {
     border: none;
     padding: 1%;
 }
