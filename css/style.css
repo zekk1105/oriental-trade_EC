@@ -1695,7 +1695,7 @@ footer span {
 }
 
 .imgBox a{
-    background-color: white;
+    background-color: #ffffff00;
     min-width: fit-content;
     width: auto;
     max-width: fit-content;
@@ -1724,9 +1724,15 @@ footer span {
     color: #EFEFEF;
 }
 
-li:hover{
+
+li:hover {
+      to {
+        transform: scale(1.1, 1.1); -webkit-transform:; -moz-transform:; -ms-transform:; -o-transform:;
+        }
+      }
+/* li:hover{
     transform: scale(1.1, 1.1);
-}
+} */
 
 body#shopDetailPage .itemImg {
     display: flex;
