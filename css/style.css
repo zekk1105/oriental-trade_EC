@@ -1724,15 +1724,13 @@ footer span {
     color: #EFEFEF;
 }
 
-
-li:hover {
-      to {
-        transform: scale(1.1, 1.1); -webkit-transform:; -moz-transform:; -ms-transform:; -o-transform:;
-        }
-      }
-/* li:hover{
+.btn{
     transform: scale(1.1, 1.1);
-} */
+}
+
+li:hover{
+    transform: scale(1.1, 1.1);
+}
 
 body#shopDetailPage .itemImg {
     display: flex;
