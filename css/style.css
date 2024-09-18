@@ -1728,7 +1728,7 @@ footer span {
     transform: scale(1.1, 1.1);
 }
 
-li:hover{
+.pick:hover{
     transform: scale(1.1, 1.1);
 }
 
