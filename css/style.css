@@ -1737,6 +1737,11 @@ body#shopDetailPage .itemImg {
     height: auto;
 }
 
+body#shopDetailPage #slideImg .imgBox img {
+    width: 90%;
+    vertical-align: middle;
+}
+
 
 @media screen and (min-width: 769px){
     .d-lg-block{
