@@ -1709,6 +1709,8 @@ footer span {
 
 #baseMenu {
     top: 90vh;
+    right: 0;
+    transform: scale(0.5);
 }
 
 .btn_item{
