@@ -1724,9 +1724,6 @@ footer span {
     color: #EFEFEF;
 }
 
-.btn{
-    transform: scale(1.1, 1.1);
-}
 
 .pick:hover{
     transform: scale(1.1, 1.1);
