@@ -1727,6 +1727,7 @@ footer span {
 
 .pick:hover{
     transform: scale(1.1, 1.1);
+    transition-duration: 0.3s;
 }
 
 body#shopDetailPage .itemImg {
