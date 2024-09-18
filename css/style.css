@@ -1726,6 +1726,11 @@ li:hover{
     transform: scale(1.1, 1.1);
 }
 
+body#shopDetailPage .itemImg {
+    display: flex;
+    height: auto;
+}
+
 
 @media screen and (min-width: 768px){
     .d-lg-block{
@@ -1735,3 +1740,5 @@ li:hover{
         display: none;
     }
 }
+
+
