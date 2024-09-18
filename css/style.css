@@ -1731,4 +1731,7 @@ li:hover{
     .d-lg-block{
         display: block;
     }
+    .d-lg-none{
+        display: none;
+    }
 }
